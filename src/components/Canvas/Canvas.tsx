@@ -1,5 +1,4 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-import { idText } from "typescript";
 
 interface CanvasProps {
   width: number;
